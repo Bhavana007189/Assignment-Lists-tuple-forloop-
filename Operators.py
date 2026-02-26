@@ -1,4 +1,4 @@
-#Operators:-
+#Operators in python==
 
 #(1)Arthmatic Operators
 num1=int(input("Enter a first number: "))
